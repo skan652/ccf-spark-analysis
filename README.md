@@ -11,6 +11,7 @@ Based on: [CCF: Fast and Scalable Connected Component Computation in MapReduce](
 ├── requirements.txt                   # Python dependencies
 ├── build.sbt                          # Scala build configuration
 ├── src/                               # Source code
+├── CCF_Report.pdf                     # PDF Project Report
 │   └── main/
 │       └── scala/
 │           ├── CCF_Main.scala                     # Scala unified runner
